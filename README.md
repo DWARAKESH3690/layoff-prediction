@@ -59,6 +59,8 @@ The project is designed as a **binary classification problem**:
 
 ---
 
+## 📂 Project Structure
+
 ├── FyiDataProcessing.ipynb
 ├── layoffproject.ipynb
 ├── layoffprojectwithPCA.ipynb
@@ -129,4 +131,3 @@ pip install -r requirements.txt
 ```
 
 
-## 📂 Project Structure
